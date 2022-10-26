@@ -1,0 +1,7 @@
+* Spinach
+** Syntax
+#+BEGIN_SRC
+
+#+END_SRC
+** Tasks
+*** TODO Decide on a syntax

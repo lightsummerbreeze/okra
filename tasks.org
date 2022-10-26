@@ -1,0 +1,6 @@
+* Tasks
+** TODO Clean the upstairs bathroom
+** TODO Clean the downstairs bathroom
+** TODO Get a blood test
+** TODO Appointment with Dr Antonia
+   SCHEDULED: <2022-11-02 Wed 10:10>
